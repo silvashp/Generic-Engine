@@ -5,8 +5,8 @@ ughghgh i made this :)
 just normal source fnf lol
 
 ## Credits:
-me - funnies
-gog charts
+me - funnies/n
+gog - charts
 
 ### Special Thanks
 youyr mom
