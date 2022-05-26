@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-199
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Banjo boy Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-206
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Banjo boy NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-214
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Banjo boy NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-219
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Banjo boy NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-197
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Banjo boy NOTE UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "scream",
+			"loop": false,
+			"name": "Banjo Boy SCREAM"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/omen",
+	"position": [
+		-30,
+		-10
+	],
+	"healthicon": "ome",
+	"flip_x": false,
+	"healthbar_colors": [
+		166,
+		153,
+		53
+	],
+	"camera_position": [
+		50,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}
