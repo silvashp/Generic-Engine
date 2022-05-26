@@ -5,7 +5,7 @@ ughghgh i made this :)
 just normal source fnf lol
 
 ## Credits:
-me - funnies/n
+me - funnies 
 gog - charts
 
 ### Special Thanks
